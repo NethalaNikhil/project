@@ -1,6 +1,6 @@
 [
     {
-        "name": "Nikhil",
+        "name": "akhil",
         "cc": 91,
         "contactNo": 9874563210,
         "email": "nikhil@gmail.com",
